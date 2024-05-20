@@ -1,7 +1,19 @@
 ---
-title: "Ian MAcCarthy"
+title: "Ian MacCarthy"
+image: portrait.jpg
+about:
+    template: trestles
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/ianm99
+        - icon: linkedin
+          text: Linkedin
+          href: https://www.linkedin.com/in/ian-maccarthy-ab38b0305/
 ---
 
-This is my personal quarto website. I am an aspiring data scientist currently studying at the University of British Columbia. 秋水共长天一色。
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+This is my personal quarto website. I am an aspiring data scientist currently studying at the University of British Columbia. 
+
+
