@@ -1,1 +1,24 @@
 /* css styles */
+.card {
+    float: left;
+    display: block;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+    max-width: 300px;
+    margin: 16px auto;
+    margin-right: 16px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .card-image {
+    width: 100%;
+    height: auto;
+  }
+  .card-content {
+    padding: 16px;
+    text-align: center;
+  }
+  
+  
