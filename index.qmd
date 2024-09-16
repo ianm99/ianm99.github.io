@@ -23,7 +23,7 @@ Thanks for visiting my website! I'm a recent graduate from the Master of Data Sc
 
 ---
 
-Find out more about my education and experience by reading [My Story](projects.qmd), or browse through my [Projects](projects.qmd) to see what I can do.
+Find out more about my education and experience by reading [My Story](about.qmd), or browse through my [Projects](projects.qmd) to see what I can do.
 
 
 
