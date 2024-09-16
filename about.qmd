@@ -1,0 +1,41 @@
+---
+title: 'My Story'
+---
+
+## Why Data Science
+
+I've had the opportunity to study a wide range of subjects during my university career. My undergraduate specializations in materials science and applied mathematics were naturally interdisciplinary fields that took me across many scientific domains, from organic chemistry to geomorphology and from vector calculus to computational physics. Over time I realised whatever area of science I found myself in, the fun part is always when the measurements are in and it's time to find out what they mean: in essence, data science. I took a year off from school to do an internship with the government of Canada where I saw data science in action, and my decision was made. My master's degree has sharpened my technical skills and exposed me to an amazing array of data science applications, which I'm excited to now put to work!
+
+## Education
+
+### Master of Data Science
+#### The University of British Columbia | 2023-2024
+
+Intensive course-based master's program covering a wide range of topics in data science. Included a two month capstone project working with an industry partner.
+
+### Bachelor of Science
+#### The University of British Columbia | 2017-2023
+
+Designed my own interdisciplinary degree as part of UBC's unique Integrated Science program, bringing together coursework from two areas: materials science and applied mathematics.
+
+## Experience
+
+### Capstone Project
+#### SRK Consulting | 2024
+
+- Worked in a small group with SRK consulting to develop tools for understanding and predicting soil liquefaction during earthquakes.
+- Trialled a variety of machine learning models for both tabular and sequential data.
+- Effectively presented results in weekly meetings with the project partners and integrated feedback into the project.
+
+### Intern Information Analyst
+#### Service Canada | 2021-2022
+
+- Managed regular data updates to tableau dashboards.
+- Developed an end-to-end data preprocessing pipeline in python to accurately transform anarchic and unusable Excel spreadsheets into machine readable files.
+- Designed new dashboard content in Power BI.
+- Assisted various projects with legal research and report writing.
+- Facilitated training sessions for managers to put planning objectives into practice.
+
+## Hobbies
+
+When the weather in Raincouver permits, I'm usually outside and in motion on a trail, sailboat, bike, or kayak. I also love to play music and learn new languages!

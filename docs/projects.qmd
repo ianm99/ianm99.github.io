@@ -1,0 +1,44 @@
+---
+title: "Projects"
+---
+
+some of my featured projects
+
+::::: {.card}
+
+::: {.card-image}
+[![](532_dashboard.jpg)](https://github.com/UBC-MDS/DSCI-532_2024_6_Green-Development-Planner?tab=readme-ov-file)
+:::
+
+::: {.card-content}
+### Green Development Planner
+Dashboard to inform international investment in sustainable energy projects
+:::
+
+:::::
+
+::::: {.card}
+
+::: {.card-image}
+[![](532_dashboard.jpg)](https://github.com/UBC-MDS/DSCI-532_2024_6_Green-Development-Planner?tab=readme-ov-file)
+:::
+
+::: {.card-content}
+### Green Development Planner
+Dashboard to inform international investment in sustainable energy projects
+:::
+
+:::::
+
+::::: {.card}
+
+::: {.card-image}
+[![](532_dashboard.jpg)](https://github.com/UBC-MDS/DSCI-532_2024_6_Green-Development-Planner?tab=readme-ov-file)
+:::
+
+::: {.card-content}
+### Green Development Planner
+Dashboard to inform international investment in sustainable energy projects
+:::
+
+:::::

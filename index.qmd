@@ -1,5 +1,6 @@
 ---
 title: "Ian MacCarthy"
+toc: false
 image: portrait.jpg
 about:
     template: trestles
@@ -12,8 +13,25 @@ about:
           href: https://www.linkedin.com/in/ian-maccarthy-ab38b0305/
 ---
 
+### Data Scientist 
+
+#### Background in Physical Sciences
+
+---
+
+Thanks for visiting my website! I'm a recent graduate from the Master of Data Science program at the University of British Columbia, the same university where I completed my Bachelor's degree studying materials science and applied mathematics.
+
+---
+
+Find out more about my education and experience by reading [My Story](projects.qmd), or browse through my [Projects](projects.qmd) to see what I can do.
 
 
-This is my personal quarto website. I am an aspiring data scientist currently studying at the University of British Columbia. 
+
+
+
+
+
+
+
 
 
