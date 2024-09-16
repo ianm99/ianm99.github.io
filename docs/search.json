@@ -7,32 +7,11 @@
     "text": "some of my featured projects\n\n\n\n\n\n\n\n\n\nGreen Development Planner\nDashboard to inform international investment in sustainable energy projects\n\n\n\n\n\n\n\n\n\n\n\nGreen Development Planner\nDashboard to inform international investment in sustainable energy projects\n\n\n\n\n\n\n\n\n\n\n\nGreen Development Planner\nDashboard to inform international investment in sustainable energy projects"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ian MacCarthy",
-    "section": "",
-    "text": "Data Scientist\n\nBackground in Physical Sciences\n\nThanks for visiting my website! I’m a recent graduate from the Master of Data Science program at the University of British Columbia, the same university where I completed my Bachelor’s degree studying materials science and applied mathematics.\n\nFind out more about my education and experience by reading My Story, or browse through my Projects to see what I can do."
-  },
-  {
-    "objectID": "index.html#data-scientist-with-a-background-in-physical-sciences",
-    "href": "index.html#data-scientist-with-a-background-in-physical-sciences",
-    "title": "Ian MacCarthy",
-    "section": "",
-    "text": "This is my personal quarto website. I am an aspiring data scientist currently studying at the University of British Columbia."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "My Story",
     "section": "",
     "text": "I’ve had the opportunity to study a wide range of subjects during my university career. My undergraduate specializations in materials science and applied mathematics were naturally interdisciplinary fields that took me across many scientific domains, from organic chemistry to geomorphology and from vector calculus to computational physics. Over time I realised whatever area of science I found myself in, the fun part is always when the measurements are in and it’s time to find out what they mean: in essence, data science. I took a year off from school to do an internship with the government of Canada where I saw data science in action, and my decision was made. My master’s degree has sharpened my technical skills and exposed me to an amazing array of data science applications, which I’m excited to now put to work!"
-  },
-  {
-    "objectID": "docs/projects.html",
-    "href": "docs/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "some of my featured projects\n\n\n\n\n\n\n\n\n\nGreen Development Planner\nDashboard to inform international investment in sustainable energy projects\n\n\n\n\n\n\n\n\n\n\n\nGreen Development Planner\nDashboard to inform international investment in sustainable energy projects\n\n\n\n\n\n\n\n\n\n\n\nGreen Development Planner\nDashboard to inform international investment in sustainable energy projects"
   },
   {
     "objectID": "about.html#why-data-science",
@@ -61,5 +40,12 @@
     "title": "My Story",
     "section": "Hobbies",
     "text": "Hobbies\nWhen the weather in Raincouver permits, I’m usually outside and in motion on a trail, sailboat, bike, or kayak. I also love to play music and learn new languages!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ian MacCarthy",
+    "section": "",
+    "text": "Data Scientist\n\nBackground in Physical Sciences\n\nThanks for visiting my website! I’m a recent graduate from the Master of Data Science program at the University of British Columbia, the same university where I completed my Bachelor’s degree studying materials science and applied mathematics.\n\nFind out more about my education and experience by reading My Story, or browse through my Projects to see what I can do."
   }
 ]
